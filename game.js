@@ -6,8 +6,8 @@ const getGamesCollection = () => {
     // this function is updating the game
     const saveGame = async (game, gameId) => {
     const col = getGameCollection()
-    await col.doc(gameId.update(game)
-    return game
+    await col.doc(gameId.update(game),
+    return (game)
     }
     // this function starts a new deck 
     const startNewGame = async () => {
