@@ -1,0 +1,22 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalibuCharles/blackjack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalibuCharles/blackjack/issues"
+  },
+  "homepage": "https://github.com/MalibuCharles/blackjack#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  }
+}
